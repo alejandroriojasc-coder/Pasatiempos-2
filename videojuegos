@@ -5,7 +5,7 @@
     <meta name="keywords" content="Hobbies, vida">
     <meta name="description" content="Cosas que me gusta hacer para pasar el tiempo">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Los videojuegos</title>
     <link rel="stylesheet" href="css/estilos.css">
     <style>
         footer {
@@ -25,9 +25,9 @@
     </nav>
     </header>
     <main>
-        <h1>mis hobbies</h1>
-        <p>A lo largo de mi vida eh experimentado muchas cosas, y esta s son algunas de las que me gustan.</p>
-        <img style="border: double black 10px; border-radius: 50%;" width="200px" src="cafe.jpg" alt="Un cafe">
+        <h1>Videojuegos</h1>
+        <p>Me gusta jugar porque me entretienen, ademas de ser algunos bastante divertidos, sus hoistorias, el mundo del juego, la sensacion que transmiten cuando logras tu objetivo, es increible.</p>
+        <img style="border: double black 10px; border-radius: 50%;" width="200px" src="videogame.jpg" alt="Un control">
     </main>
     <footer>
         <address>
