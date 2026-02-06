@@ -27,7 +27,7 @@
     <main>
         <h1>Videojuegos</h1>
         <p>Me gusta jugar porque me entretienen, ademas de ser algunos bastante divertidos, sus hoistorias, el mundo del juego, la sensacion que transmiten cuando logras tu objetivo, es increible.</p>
-        <img style="border: double black 10px; border-radius: 50%;" width="200px" src="videogame.jpg" alt="Un control">
+        <img style="border: double black 10px; border-radius: 50%;" width="200px" src="control.jpg" alt="Un control">
     </main>
     <footer>
         <address>
